@@ -18,3 +18,5 @@ Malzemeler:
 11. Buzzer x 1
 12. Dişi-Dişi, Dişi-Erkek, ve Erkek-Erkek Jumper kablolar
 13. Maket Kartonu x 2 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qWTyxGQI-gI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
