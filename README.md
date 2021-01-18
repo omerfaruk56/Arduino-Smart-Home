@@ -19,4 +19,4 @@ Malzemeler:
 12. Dişi-Dişi, Dişi-Erkek, ve Erkek-Erkek Jumper kablolar
 13. Maket Kartonu x 2 
 
-[![Everything Is AWESOME](https://i9.ytimg.com/vi_webp/qWTyxGQI-gI/sddefault.webp?time=1610973000000&sqp=CMj-lYAG&rs=AOn4CLDMKJ6TkQlN04U8qnkyM68P-2kDPQ)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Akıllı Ev Sistemleri](https://i9.ytimg.com/vi_webp/qWTyxGQI-gI/sddefault.webp?time=1610973000000&sqp=CMj-lYAG&rs=AOn4CLDMKJ6TkQlN04U8qnkyM68P-2kDPQ)](https://www.youtube.com/watch?v=qWTyxGQI-gI&t=1s&ab_channel=%C3%96merFarukEllialt%C4%B1 "Akıllı Ev Sistemleri")
