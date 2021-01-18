@@ -19,4 +19,4 @@ Malzemeler:
 12. Dişi-Dişi, Dişi-Erkek, ve Erkek-Erkek Jumper kablolar
 13. Maket Kartonu x 2 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qWTyxGQI-gI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Everything Is AWESOME](https://i9.ytimg.com/vi_webp/qWTyxGQI-gI/sddefault.webp?time=1610973000000&sqp=CMj-lYAG&rs=AOn4CLDMKJ6TkQlN04U8qnkyM68P-2kDPQ)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
