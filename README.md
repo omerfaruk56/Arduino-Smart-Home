@@ -1,10 +1,8 @@
-# smarthomesystem
-Akıllı Ev Sistemi
-
+# Akıllı Ev Sistemi
 <br/>
 <br/>
 
-Malzemeler:
+<b>Malzemeler:</b>
 1. Reed Röle (Manyetik Anahtar) x 3
 2. Mıknatıs x 3
 3. Ultrasonik Mesafe Sensörü x 1
@@ -18,5 +16,10 @@ Malzemeler:
 11. Buzzer x 1
 12. Dişi-Dişi, Dişi-Erkek, ve Erkek-Erkek Jumper kablolar
 13. Maket Kartonu x 2 
+14. ESP8266 Wifi Modülü
+
+<b>API</b> 
+- https://thingspeak.com/
+
 
 [![Akıllı Ev Sistemleri](https://i9.ytimg.com/vi_webp/qWTyxGQI-gI/sddefault.webp?time=1610973000000&sqp=CMj-lYAG&rs=AOn4CLDMKJ6TkQlN04U8qnkyM68P-2kDPQ)](https://www.youtube.com/watch?v=qWTyxGQI-gI&t=1s&ab_channel=%C3%96merFarukEllialt%C4%B1 "Akıllı Ev Sistemleri")
