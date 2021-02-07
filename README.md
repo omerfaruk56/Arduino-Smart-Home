@@ -23,5 +23,5 @@
 
 <b>Watch Video</b> 
 
-<a href="https://www.youtube.com/watch?v=qWTyxGQI-gI&t=1s&ab_channel=%C3%96merFarukEllialt%C4%B1">bbb</a>
+- <a href="https://www.youtube.com/watch?v=qWTyxGQI-gI&t=1s&ab_channel=%C3%96merFarukEllialt%C4%B1">izle</a>
 
