@@ -2,6 +2,13 @@
 <br/>
 <br/>
 
+<b>Özellikleri</b>
+- Sesli gaz kaçak alarmı
+- Kapı ve pencere alarmı
+- Otomatik aydınlatma
+- Sıcaklığa bağlı fan çalıştırma
+- otomatik garaj kapısı açma
+
 <b>Malzemeler:</b>
 1. Reed Röle (Manyetik Anahtar) x 3
 2. Mıknatıs x 3
