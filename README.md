@@ -7,7 +7,7 @@
 - Kapı ve pencere alarmı
 - Otomatik aydınlatma
 - Sıcaklığa bağlı fan çalıştırma
-- otomatik garaj kapısı açma
+- Otomatik garaj kapısı açma
 
 <b>Malzemeler</b>
 1. Reed Röle (Manyetik Anahtar) x 3
