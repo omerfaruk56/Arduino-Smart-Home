@@ -9,7 +9,7 @@
 - Sıcaklığa bağlı fan çalıştırma
 - otomatik garaj kapısı açma
 
-<b>Malzemeler:</b>
+<b>Malzemeler</b>
 1. Reed Röle (Manyetik Anahtar) x 3
 2. Mıknatıs x 3
 3. Ultrasonik Mesafe Sensörü x 1
