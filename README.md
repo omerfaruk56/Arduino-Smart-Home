@@ -1,10 +1,9 @@
 # Akıllı Ev Sistemi
-<b>Kullanılan Teknolojiler</b>
+<b>Technologies</b>
 - Arduino IDE
 - Java
 - Arduino Mikrodenetleyici (Atmega328p MCU)
 - ESP8266 Wifi Modülü
-
 
 <b>Özellikleri</b>
 - Sesli gaz kaçak alarmı
@@ -33,10 +32,12 @@
 - https://thingspeak.com/
 
 <b>Watch Video</b> 
-
 - <a href="https://www.youtube.com/watch?v=qWTyxGQI-gI&t=1s&ab_channel=%C3%96merFarukEllialt%C4%B1">Arduino-Smart-Home</a>
 
-## <b>Destek</b>
+![Alt text](https://hizliresim.com/SkPdHQ "Title")
+
+
+# <b>Support</b>
 Herhangi bir sorun, geri bildirim veya özellik talebi için omerfaruk56@live.com adresine bir e-posta gönderin, github'da bir Issues oluşturun
 <br>
 
