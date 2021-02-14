@@ -36,10 +36,13 @@
 </br>
 <b>Circuit Schema</b>
 </br>
+
 ![Alt text](https://i.hizliresim.com/lHBp6W.jpg?raw=true "Title")
 
+</br>
 <b>Temperature-Time Graph</b>
 </br>
+
 ![Alt text](https://i.hizliresim.com/SkPdHQ.jpg?raw=true "Title")
 
 
