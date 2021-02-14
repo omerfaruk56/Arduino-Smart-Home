@@ -35,7 +35,7 @@
 - <a href="https://www.youtube.com/watch?v=qWTyxGQI-gI&t=1s&ab_channel=%C3%96merFarukEllialt%C4%B1">Arduino-Smart-Home</a>
 
 
-![Alt text](https://i.ibb.co/8gWDkVH/fg.png?raw=true "Title")
+![Alt text](https://i.hizliresim.com/SkPdHQ.jpg?raw=true "Title")
 
 # <b>Support</b>
 Herhangi bir sorun, geri bildirim veya özellik talebi için omerfaruk56@live.com adresine bir e-posta gönderin, github'da bir Issues oluşturun
