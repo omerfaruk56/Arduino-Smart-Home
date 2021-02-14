@@ -5,14 +5,14 @@
 - Arduino Mikrodenetleyici (Atmega328p MCU)
 - ESP8266 Wifi Modülü
 
-<b>Özellikleri</b>
+<b>Features</b>
 - Sesli gaz kaçak alarmı
 - Kapı ve pencere alarmı
 - Otomatik aydınlatma
 - Sıcaklığa bağlı fan çalıştırma
 - Otomatik garaj kapısı açma
 
-<b>Malzemeler</b>
+<b>Materials</b>
 1. Reed Röle (Manyetik Anahtar) x 3
 2. Mıknatıs x 3
 3. Ultrasonik Mesafe Sensörü x 1
@@ -33,7 +33,7 @@
 
 <b>Watch Video</b> 
 - <a href="https://www.youtube.com/watch?v=qWTyxGQI-gI&t=1s&ab_channel=%C3%96merFarukEllialt%C4%B1">Arduino-Smart-Home</a>
-
+</br>
 <b>Circuit Schema</b>
 </br>
 ![Alt text](https://i.hizliresim.com/lHBp6W.jpg?raw=true "Title")
