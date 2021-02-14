@@ -33,15 +33,13 @@
 
  # Watch Video
 - <a href="https://www.youtube.com/watch?v=qWTyxGQI-gI&t=1s&ab_channel=%C3%96merFarukEllialt%C4%B1">Arduino-Smart-Home</a>
-</br>
+
 # Circuit Schema
-</br>
 
 ![Alt text](https://i.hizliresim.com/lHBp6W.jpg?raw=true "Title")
 
-</br>
+
 # Temperature-Time Graph
-</br>
 
 ![Alt text](https://i.hizliresim.com/SkPdHQ.jpg?raw=true "Title")
 
