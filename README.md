@@ -35,7 +35,7 @@
 - <a href="https://www.youtube.com/watch?v=qWTyxGQI-gI&t=1s&ab_channel=%C3%96merFarukEllialt%C4%B1">Arduino-Smart-Home</a>
 
 <b>Circuit Schema</b>
-- ![Alt text](https://i.hizliresim.com/FtTjBW.jpg?raw=true "Title")
+- ![Alt text](https://i.hizliresim.com/lHBp6W.jpg?raw=true "Title")
 
 <b>Temperature-Time Graph</b>
 - ![Alt text](https://i.hizliresim.com/SkPdHQ.jpg?raw=true "Title")
