@@ -1,4 +1,4 @@
-# Akıllı Ev Sistemi
+# Akıllı Ev Sistemi & IoT
 
 # Technologies
 - Arduino IDE
