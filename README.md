@@ -1,5 +1,6 @@
 # Akıllı Ev Sistemi
-<b>Technologies</b>
+
+# Technologies
 - Arduino IDE
 - Java
 - Arduino Mikrodenetleyici (Atmega328p MCU)
